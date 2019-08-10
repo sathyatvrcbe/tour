@@ -29,7 +29,7 @@ import (
 )
 
 const (
-	basePkg    = "golang.org/x/tour"
+	basePkg    = "github.com/sathyatvrcbe/tour"
 	socketPath = "/socket"
 )
 
