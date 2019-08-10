@@ -9,7 +9,7 @@ angular.module('tour.values', []).
 // List of modules with description and lessons in it.
 value('tableOfContents', [{
     'id': 'mechanics',
-    'title': 'Using the tour',
+    'title': 'இந்த டூரை பயன்படுத்துவது எப்படி? ',
     'description': '<p>Welcome to a tour of the <a href="https://golang.org">Go programming language</a>. The tour covers the most important features of the language, mainly:</p>',
     'lessons': ['welcome']
 }, {
