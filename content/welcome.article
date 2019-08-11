@@ -29,7 +29,7 @@ https://golang.org
 வலப்புறம் இருக்கும் நிரலை [[https://golang.org/cmd/gofmt/][gofmt]] எனும் கருவியின் உதவியுடன் சீரான வடிவிற்கு கொண்டுவர [[javascript:highlightAndClick("#format")][Format]]
 (குறுக்குவழி =: `Ctrl` + `Enter`) எனும் பொத்தானை அழுத்தவும். கோ மொழியின் இலக்கண விதிகளை மேற்கோளிட்டு காட்டவும் மேற்கோள்களை நீக்கவும் [[javascript:highlightAndClick(".syntax-checkbox")][syntax]] பொத்தானை அழுத்தவும்.
 
-அடுத்த பாடத்திற்கு செல்ல கீழிருக்கும் [[javascript:highlightAndClick(".next-page")][வலது குறியை]] அழுத்தவும் அல்லது `PageDown ` பொத்தானை விசைப்பலகையில் அழுத்தவும்.
+அடுத்த பாடத்திற்கு செல்ல கீழிருக்கும் [[javascript:highlightAndClick(".next-page")][வலது குறியை]] அழுத்தவும் அல்லது `PageDown` பொத்தானை விசைப்பலகையில் அழுத்தவும்.
 
 .play welcome/hello.go
 
