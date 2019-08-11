@@ -14,7 +14,7 @@ https://golang.org
 
 இப்பயிற்சி முழுவதும் நீங்கள் பல பாடங்களையும் பயிற்சிகளையும் காண்பீர்கள்.
 
-மேற்கூறிய பாடங்களுக்கும் பயிற்சிகளுக்கும் நீங்கள் முன்னும் பின்னும் பொய் வரலாம்.
+மேற்கூறிய பாடங்களுக்கும் பயிற்சிகளுக்கும் நீங்கள் முன்னும் பின்னும் போய் வரலாம்.
 
 - பின்னே செல்ல [[javascript:highlight(".prev-page")]["previous"]] அல்லது `PageUp`.
 
@@ -22,16 +22,14 @@ https://golang.org
 
 இப்பயிற்சி ஊடாடும் தன்மையில் அமையப்பெற்றது. நிரலை தொகுத்து ஓட்ட [[javascript:highlightAndClick("#run")][Run]] பொத்தானை அழுத்தவும். இந்த நிரல் ஓட்டத்தின் வெளியீடுகள் நிரலுக்கு கீழே காணக்கிடைக்கும்.
 
-இப்பயிற்சியில் கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டு நிரல்கள் கோ மொழியின் பல்வேறு கூறுகளை விளக்கும் வண்ணம் அமைந்துள்ளன. உங்களின் சோதனை நிரல்களுக்கு கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டுகளை தொடக்க புள்ளியாக கொள்ளலாம்.
+இப்பயிற்சியில் கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டு நிரல்கள் கோ மொழியின் பல்வேறு கூறுகளை விளக்கும் வண்ணம் அமைந்துள்ளன. உங்களின் சோதனை நிரல்களுக்கு கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டுகளை தொடக்க புள்ளிகளாக கொள்ளலாம்.
 
 கொடுக்கப்பட்டுள்ள நிரலை சற்று மாற்றவும்; மாற்றிய பின் ஓட்டிப் பார்க்கவும்.
 
-When you click on [[javascript:highlightAndClick("#format")][Format]]
-(shortcut: `Ctrl` + `Enter`), the text in the editor is formatted using the
-[[https://golang.org/cmd/gofmt/][gofmt]] tool. You can switch syntax highlighting on and off
-by clicking on the [[javascript:highlightAndClick(".syntax-checkbox")][syntax]] button.
+வலப்புறம் இருக்கும் நிரலை [[https://golang.org/cmd/gofmt/][gofmt]] எனும் கருவியின் உதவியுடன் சீரான வடிவிற்கு கொண்டுவர [[javascript:highlightAndClick("#format")][Format]]
+(குறுக்குவழி =: `Ctrl` + `Enter`) எனும் பொத்தானை அழுத்தவும். கோ மொழியின் இலக்கண விதிகளை மேற்கோளிட்டு காட்டவும் மேற்கோள்களை நீக்கவும் [[javascript:highlightAndClick(".syntax-checkbox")][syntax]] பொத்தானை அழுத்தவும்.
 
-When you're ready to move on, click the [[javascript:highlightAndClick(".next-page")][right arrow]] below or type the `PageDown` key.
+அடுத்த பாடத்திற்கு செல்ல கீழிருக்கும் [[javascript:highlightAndClick(".next-page")][வலது குறியை]] அழுத்தவும் அல்லது `PageDown ` பொத்தானை விசைப்பலகையில் அழுத்தவும்.
 
 .play welcome/hello.go
 
