@@ -1,38 +1,30 @@
-Welcome!
-Learn how to use this tour: including how to navigate the different lessons and how to run code.
+வணக்கம்!
+இப்பயிற்சியை எப்படி பயன்படுத்துவது என்று அறிந்துகொள்ளுங்கள். மேலும் வெவ்வேறு பாடங்களுக்கு எப்படி செல்வது மற்றும் நிரலை எப்படி ஓட்டுவது என்பதையும் அறிந்துகொள்ளுங்கள்.
 
-The Go Authors
+கோ மொழியை எழுதியவர்கள் 
 https://golang.org
 
-* அனைவருக்கும் வணக்கம் 
+* உலக வணக்கம்  
 
-Welcome to a tour of the [[https://golang.org/][Go programming language]].
+[[https://golang.org/][கோ மொழி]] பயிற்சிக்கு வரவேற்கிறோம் .
 
-The tour is divided into a list of modules that you can
-access by clicking on
-[[javascript:highlight(".logo")][A Tour of Go]] on the top left of the page.
+இந்த பயிற்சியானது பல பகுதிகளாக பிரிக்கப்பட்டுள்ளது. தங்களுக்கு விருப்பமான பகுதியை தேர்வு செய்ய இப்பக்கத்தின் மேல் பகுதியில் இடது பக்கம் இருக்கும் [[javascript:highlight(".logo")][A Tour of Go]] என்ற இணைப்பை அழுத்தவும்.
 
-You can also view the table of contents at any time by clicking on the [[javascript:highlightAndClick(".nav")][menu]] on the top right of the page.
+இப்பக்கத்தின் மேல் பகுதியின் வலது புறத்தில் அமைந்துள்ள [[javascript:highlightAndClick(".nav")][பட்டியலை]] அழுத்தி பாடப்பட்டியலை காணலாம். 
 
-Throughout the tour you will find a series of slides and exercises for you
-to complete.
+இப்பயிற்சி முழுவதும் நீங்கள் பல பாடங்களையும் பயிற்சிகளையும் காண்பீர்கள்.
 
-You can navigate through them using
+மேற்கூறிய பாடங்களுக்கும் பயிற்சிகளுக்கும் நீங்கள் முன்னும் பின்னும் பொய் வரலாம்.
 
-- [[javascript:highlight(".prev-page")]["previous"]] or `PageUp` to go to the previous page,
+- பின்னே செல்ல [[javascript:highlight(".prev-page")]["previous"]] அல்லது `PageUp`.
 
-- [[javascript:highlight(".next-page")]["next"]] or `PageDown` to go to the next page.
+- முன்னே செல்ல [[javascript:highlight(".next-page")]["next"]] அல்லது  `PageDown`.
 
-The tour is interactive. Click the
-[[javascript:highlightAndClick("#run")][Run]] button now
-(or press `Shift` + `Enter`) to compile and run the program on
-#appengine: a remote server.
-your computer.
-The result is displayed below the code.
+இப்பயிற்சி ஊடாடும் தன்மையில் அமையப்பெற்றது. நிரலை தொகுத்து ஓட்ட [[javascript:highlightAndClick("#run")][Run]] பொத்தானை அழுத்தவும். இந்த நிரல் ஓட்டத்தின் வெளியீடுகள் நிரலுக்கு கீழே காணக்கிடைக்கும்.
 
-These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
+இப்பயிற்சியில் கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டு நிரல்கள் கோ மொழியின் பல்வேறு கூறுகளை விளக்கும் வண்ணம் அமைந்துள்ளன. உங்களின் சோதனை நிரல்களுக்கு கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டுகளை தொடக்க புள்ளியாக கொள்ளலாம்.
 
-Edit the program and run it again.
+கொடுக்கப்பட்டுள்ள நிரலை சற்று மாற்றவும்; மாற்றிய பின் ஓட்டிப் பார்க்கவும்.
 
 When you click on [[javascript:highlightAndClick("#format")][Format]]
 (shortcut: `Ctrl` + `Enter`), the text in the editor is formatted using the
